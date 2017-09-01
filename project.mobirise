@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "HOME OF CAPRICORN CAR SALES DEESIDE",
+    "currentPage": "CAPRICORN CAR SALES IN DEESIDE U.K",
     "name": "1 Capricorn Car Sale's in Deeside.",
     "theme": {
       "name": "mobirise3",
@@ -30,11 +30,11 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "HOME OF CAPRICORN CAR SALES DEESIDE": {
+    "CAPRICORN CAR SALES IN DEESIDE U.K": {
       "settings": {
         "main": true,
         "title": "HOME ",
-        "meta_descr": "capricorn car sales, Deeside, cars for sale, low millage cars for sale,",
+        "meta_descr": "capricorn car sales, Deeside, cars for sale, low millage cars for sale, car sales, ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -50,7 +50,7 @@
               "text-align": "left"
             },
             ".lead B": {
-              "color": "#000000",
+              "color": "#ffffff",
               "font-size": "20px"
             },
             ".lead": {
@@ -68,7 +68,7 @@
             },
             ".lead H4": {
               "text-align": "center",
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".mbr-section-title": {
               "font-size": "36px",
@@ -86,9 +86,9 @@
           "_params": {
             "paddingTop": "5",
             "paddingBottom": "5",
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x3000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2666.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -378,8 +378,9 @@
               "font-size": "20px"
             },
             "P": {
-              "color": "#ffffff",
-              "font-size": "22px"
+              "color": "#f50d0a",
+              "font-size": "20px",
+              "text-align": "center"
             },
             "H3": {
               "color": "#ffffff"
@@ -395,8 +396,8 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1500.jpg",
-            "bgColor": "#000000",
+            "bgImage": "@PROJECT_PATH@/assets/images/car-wallpaper-free-download-pack-of-20-car-wallpapers-2000x1246.jpg",
+            "bgColor": "#262222",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -416,8 +417,8 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/img-2000x2195.jpg",
               "link": "http://www.capricorncars.co.uk/siteimages/capricorn%20sign.png",
-              "alt": "",
-              "title": "",
+              "alt": "capricorn car sales",
+              "title": "capricorn car sales",
               "linkInNewWindow": true
             },
             "video": {
@@ -428,6 +429,9 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "linkInNewWindow": false,
+              "name": "like",
+              "family": "MobiriseIcons",
               "link": "",
               "size": 0
             }
