@@ -50,7 +50,7 @@
               "text-align": "left"
             },
             ".lead B": {
-              "color": "#fac51c",
+              "color": "#000000",
               "font-size": "20px"
             },
             ".lead": {
@@ -68,7 +68,7 @@
             },
             ".lead H4": {
               "text-align": "center",
-              "color": "#f3c649"
+              "color": "#000000"
             },
             ".mbr-section-title": {
               "font-size": "36px",
@@ -88,7 +88,7 @@
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1329.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x3000.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -103,7 +103,7 @@
             "showButton": false
           },
           "title": "Welcome to Capricorn car sale's <br>in Deeside North Wales",
-          "text": "<ol><li>Pre owned used low millage car's for sale in Deeside. </li></ol><h4>PHONE CAR SALES-01244-818-992</h4>",
+          "text": "<ol><li><b>Pre owned used low millage car's for sale in Deeside. </b></li></ol><h4>PHONE CAR SALES-01244-818-992</h4>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -415,7 +415,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/img-2000x2195.jpg",
-              "link": "http://www.capricorncars.co.uk/siteimages/img_3009.jpg",
+              "link": "http://www.capricorncars.co.uk/siteimages/capricorn%20sign.png",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
