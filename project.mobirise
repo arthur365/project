@@ -19,7 +19,8 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": []
     },
     "versionFirst": "3.10.4",
     "uniqCompNum": 57,
@@ -29,7 +30,8 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "google-analytics": "",
-    "siteUrl": "undefined"
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on"
   },
   "pages": {
     "CAPRICORN CAR SALES IN DEESIDE U.K": {
@@ -52,7 +54,7 @@
               "text-align": "left"
             },
             ".lead B": {
-              "color": "#ffffff",
+              "color": "#000000",
               "font-size": "20px"
             },
             ".lead": {
@@ -70,7 +72,7 @@
             },
             ".lead H4": {
               "text-align": "center",
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".mbr-section-title": {
               "font-size": "36px",
@@ -92,7 +94,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2666.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/car-wallpaper-free-download-pack-of-20-car-wallpapers-2000x1246.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -107,38 +109,6 @@
           "title": "Welcome to Capricorn car sale's <br>in Deeside North Wales",
           "text": "<ol><li><b>Pre owned used low millage car's for sale in Deeside. </b></li></ol><h4>PHONE CAR SALES-01244-818-992</h4>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-g",
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": "1",
-            "paddingBottom": "5",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1385.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": "0.3"
-          },
-          "title": "",
-          "caption": ""
         },
         {
           "_name": "footer1",
@@ -380,7 +350,7 @@
               "font-size": "20px"
             },
             "P": {
-              "color": "#f50d0a",
+              "color": "#f7da64",
               "font-size": "20px",
               "text-align": "center"
             },

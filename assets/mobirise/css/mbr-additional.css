@@ -433,7 +433,7 @@ h6,
   text-align: left;
 }
 #msg-box8-x .lead B {
-  color: #ffffff;
+  color: #000000;
   font-size: 20px;
 }
 #msg-box8-x .lead {
@@ -450,7 +450,7 @@ h6,
 }
 #msg-box8-x .lead H4 {
   text-align: center;
-  color: #ffffff;
+  color: #000000;
 }
 #msg-box8-x .mbr-section-title {
   font-size: 36px;
@@ -458,10 +458,6 @@ h6,
 }
 #msg-box8-x .lead LI {
   color: #efefef;
-}
-#content5-g .mbr-section-title,
-#content5-g p {
-  color: #fff;
 }
 #footer1-2 P {
   text-align: center;
@@ -546,7 +542,7 @@ h6,
   font-size: 20px;
 }
 #msg-box5-y P {
-  color: #f50d0a;
+  color: #f7da64;
   font-size: 20px;
   text-align: center;
 }
