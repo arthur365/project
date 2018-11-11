@@ -28,10 +28,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x97-2.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png",
-    "google-analytics": "",
-    "siteUrl": "",
-    "sitemapSwitcherAuto": "on"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "CAPRICORN CAR SALES IN DEESIDE U.K": {
@@ -54,7 +51,7 @@
               "text-align": "left"
             },
             ".lead B": {
-              "color": "#000000",
+              "color": "#ffffff",
               "font-size": "20px"
             },
             ".lead": {
@@ -72,7 +69,7 @@
             },
             ".lead H4": {
               "text-align": "center",
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".mbr-section-title": {
               "font-size": "36px",
@@ -94,10 +91,10 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/car-wallpaper-free-download-pack-of-20-car-wallpapers-2000x1246.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1385.jpg",
             "parallax": false,
             "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -350,7 +347,7 @@
               "font-size": "20px"
             },
             "P": {
-              "color": "#f7da64",
+              "color": "#c0a375",
               "font-size": "20px",
               "text-align": "center"
             },
@@ -368,7 +365,7 @@
             "showButtons": true,
             "inverse": true,
             "imageSize": "52",
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/car-wallpaper-free-download-pack-of-20-car-wallpapers-2000x1246.jpg",
@@ -408,9 +405,9 @@
               "size": 0
             }
           },
-          "title": "<i>Opening Hours</i>",
+          "title": "<i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Opening Hours</i>",
           "text": "Monday       09:30 AM to 05:30 PM<br>Tuesday      09:30 AM to 05:30 PM<br>Wednesday    09:30 AM to 05:30 PM<br>Thursday     09:30 AM to 05:30 PM<br>Friday       09:30 AM to 05:30 PM<br>Saturday     10:30 AM to 04:00 PM<br>Sunday       11:30 AM to 03:00 PM<br>AFTER HOURS :APOINTMENTS ARRANGED,<br>Our Website address,&nbsp;<a href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" target=\"_blank\" class=\"text-warning\">www.capricorncars.co.uk</a><br>       *     PHONE CAR SALES    *<br>              01244-818992 <br>          Mobile  07859 069461<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://ebayshowroom.ebaymotorspro.co.uk/emp/showroom.html?cid=H8WENNQYZtmf%2FXEoRBdvwA%3D%3D\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Capricorn Car Sales eBay Show Room&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://form.jotformeu.com/70513931462351\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>&nbsp; Whant to sell your car click here</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://ebayshowroom.ebaymotorspro.co.uk/emp/showroom.html?cid=H8WENNQYZtmf%2FXEoRBdvwA%3D%3D\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-star mbr-iconfont mbr-iconfont-btn\"></span>Capricorn Car Sales eBay Show Room&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://form.jotformeu.com/70513931462351\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>&nbsp; Whant to sell your car click here</a> "
         },
         {
           "_tags": [
