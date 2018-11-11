@@ -28,7 +28,9 @@
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x97-2.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "google-analytics": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "CAPRICORN CAR SALES IN DEESIDE U.K": {
